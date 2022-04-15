@@ -8,6 +8,7 @@ As a end user api is provided that will crawl all the reviews from particular pr
 # How to run locally?
 
 ```
+npm install
 npm run start
 ```
 
